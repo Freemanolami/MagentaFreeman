@@ -1,4 +1,4 @@
-# MagentaFreeman
+# **MagentaFreeman**
 My first magentakale session
 **Data science class with Datasally**
 ## Github navigation 
